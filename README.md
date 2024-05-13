@@ -179,14 +179,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
+![323857793-de6c5c4c-e138-47eb-a334-cfc96d6cf3be](https://github.com/Suji-90/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/150884148/39de2df2-e78f-4dd0-8ca6-a9956beb4938)
 
-![323857793-de6c5c4c-e138-47eb-a334-cfc96d6cf3be](https://github.com/Suji-90/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/150884148/428de251-7827-4063-b1a7-ec70e25cd450)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
  
- ![323857871-632575da-84cc-4c90-a6f5-beeaa3914ca3](https://github.com/Suji-90/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/150884148/b56fcc91-4cbf-4b12-87c6-95591691538e)
+
+![323857871-632575da-84cc-4c90-a6f5-beeaa3914ca3](https://github.com/Suji-90/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/150884148/170212a9-40a1-43a4-977e-4194a45614f1)
 
  
 ## Result :
